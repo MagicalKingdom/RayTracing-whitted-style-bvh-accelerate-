@@ -1,1 +1,1 @@
-# RayTracing-whitted-style-bvh-accelerate-
+# RayTracing WhittedStyle BVH accelerate
